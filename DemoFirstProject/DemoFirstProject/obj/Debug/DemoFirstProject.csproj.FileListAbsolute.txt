@@ -1,0 +1,7 @@
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.exe.config
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.exe
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.pdb
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.csproj.AssemblyReference.cache
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.exe
+D:\Github\Csharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.pdb
